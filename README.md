@@ -119,7 +119,7 @@ lib/
 5. **Run the app**
    ```bash
    flutter run
-   ``
+   ```
 
 ---
 
@@ -139,10 +139,3 @@ The app requests the following Android permissions:
 - **Data persistence:** User events and RSVPs are stored in Cloud Firestore and persist across sessions and devices.
 
 ---
-
-
-
-
-## 📄 Лиценца
-
-Овој проект е изработен за едукативни цели.
